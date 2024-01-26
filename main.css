@@ -1,0 +1,13 @@
+body{
+    background-color: #F0EDCF;
+}
+
+*{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#title12{
+    text-decoration: underline;
+    
+}
